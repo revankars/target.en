@@ -101,6 +101,7 @@ JSON is a powerful way to pass parameters. Target uses the JSON object keys to f
                   "country": { 
                                 "city": "San Francisco" 
                             } 
+                   "age": "26"
               } 
   }; 
 }; 
